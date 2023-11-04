@@ -66,9 +66,9 @@ Use the Candy Machine CLI to create and manage your NFTs. You can set attributes
 
 Use the `candy-machine-ui` to provide a user-friendly interface for browsing and purchasing NFTs. Users can view your NFT collection and make purchases through this interface.
 
-### Money Molder
+### Money Folder
 
-The Money Molder allows you to create and manage your own tokens using the `spl-token` library. Once you've created your tokens, you can configure them within the Sugar platform for distribution or use.
+The Money Directory allows you to create and manage your own tokens using the `spl-token` library. Once you've created your tokens, you can configure them within the Sugar platform for distribution or use.
 
 ## Contributing
 
